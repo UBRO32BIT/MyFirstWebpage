@@ -1,2 +1,2 @@
-# MyAnime
-my anime list
+# my first webpage
+i've just learned basic html css so my page is kinda ugly..... :(
