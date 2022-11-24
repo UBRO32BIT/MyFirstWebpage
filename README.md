@@ -1,0 +1,2 @@
+# MyAnime
+my anime list
