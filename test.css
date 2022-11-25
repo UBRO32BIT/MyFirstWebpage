@@ -13,7 +13,7 @@
     src: url(VarelaRound-Regular.ttf) format('truetype');
     font-weight: normal;
 }
-h1 {
+.main_title {
     font-family: "Antipasto";
 }
 .title {
