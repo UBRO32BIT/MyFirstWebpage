@@ -1,29 +1,27 @@
 @font-face {
     font-family: "Antipasto";
-    src: url(AntipastoPro-Bold_trial.ttf) format('truetype');
+    src: url(https://ubro32bit.github.io/MyFirstWebpage/fonts/AntipastoPro-Bold_trial.ttf) format('truetype');
     font-weight: normal;
 }
 @font-face {
     font-family: "Accuratist";
-    src: url(Accuratist.ttf) format('truetype');
+    src: url(https://ubro32bit.github.io/MyFirstWebpage/fonts/Accuratist.ttf) format('truetype');
     font-weight: normal;
 }
 @font-face {
     font-family: "VarelaRound";
-    src: url(VarelaRound-Regular.ttf) format('truetype');
+    src: url(https://ubro32bit.github.io/MyFirstWebpage/fonts/VarelaRound-Regular.ttf) format('truetype');
     font-weight: normal;
 }
 .main_title {
     font-family: "Antipasto";
 }
-.title {
-    margin-top: 60px;
-    margin-bottom: 60px;
-}
 #anime_name {
     font-family: "Accuratist";
     text-align: center;
     font-size: xx-large;
+    color: inherit;
+    text-decoration: none;
 }
 h2 {
     font-family: "VarelaRound"
