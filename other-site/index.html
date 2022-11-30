@@ -9,23 +9,34 @@
         <link href="style.css" rel="stylesheet">
     </head>
     <body>
-        <nav class="navbar navbar-default">
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
             <div class="container-fluid">
                 <div class="navbar-header">
-                    <a class="navbar-brand" href="index.html">test</a>
+                    <a class="navbar-brand" href="index.html">
+                        <img src="logo.png" alt="" width="36px" height="36px" class="d-inline-block align-text-middle">
+                        XAM LOL's Cooperation
+                    </a>
                 </div>
                 <ul class="nav navbar-nav">
-                    <li class="active"><a href="#">Home</a></li>
-                    <li><a href="#"></a></li>
-                    <li><a href="#">Page 1</a></li>
-                    <li><a href="#">Page 1</a></li>
+                    <li class="nav-item"><a class="nav-link active" href="#">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Page 1</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">About me</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#">Github</a></li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">Other sites</a>
+                        <ul class="dropdown-menu">
+                            <li class="dropdown-item"><a class="nav-link" href="MyFirstWebpage/index.html">Anime collection</a></li>
+                            <li class="dropdown-item"><a class="nav-link" href="">Page 2</a></li>
+                            <li class="dropdown-item"><a class="nav-link" href="">Page 3</a></li>
+                        </ul>
+                    </li>
                 </ul>
             </div>
         </nav>
         <div class="container">
             <div class="row">
                 <div class="text-center">
-                    <img src="logo.png" alt="logo">
+                    <img src="logo.png" alt="logo" width="120px" height="120px">
                 </div>
             </div>
             <div class="row mb-4">
@@ -99,7 +110,7 @@
                         </tr>
                     </table>
                     <div class="alert alert-warning" role="alert">
-                        Warning: Phat hien 1 con heo Trung Quoc dang xem trang web nay
+                        Error [In Line 113]: expected ';' before '}' token at "console.log.output(helo word)"
                     </div>
                     <audio controls>
                         <source src="laoganma.mp3">
