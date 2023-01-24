@@ -19,13 +19,10 @@
 #anime_name {
     font-family: "Accuratist";
     text-align: center;
-    font-size: xx-large;
+    font-size: 150%;
     color: inherit;
     text-decoration: none;
 }
-h2 {
-    font-family: "VarelaRound"
-}
-h4 {
+.varela {
     font-family: "VarelaRound";
 }
