@@ -1,2 +1,4 @@
 # my first webpage
-i've just learned basic html css so my page is kinda ugly..... :(
+a small webpage that goes along my html css learning journey
+# Current technologies
+Html + css + bootstrap
